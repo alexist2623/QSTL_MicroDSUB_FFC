@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QSTL_MicroDSUB_FFC.PrjPcb]
+   Generated File[QSTL_MicroDSUB_FFC.TXT]
+   Generated File[QSTL_MicroDSUB_FFC.LDP]
+   Generated File[QSTL_MicroDSUB_FFC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:22:15 PM On 2025-10-08
