@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Jeonghyun\SNU_GIT\QSTL_MicroDSUB_FFC\QSTL_MicroDSUB_FFC\Project Outputs for QSTL_MicroDSUB_FFC\Pick Place for QSTL_MicroDSUB_FFC.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09-10-25
+Time:       11:39
+Revision:   1269357dcd5edc473e7a1a129720a4146d5a8390
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"M4","M2 Hole","TopLayer","M2_Hole","24.0000","36.0000","0",""
+"M3","M2 Hole","TopLayer","M2_Hole","2.0000","36.0000","0",""
+"M2","M2 Hole","TopLayer","M2_Hole","24.0000","2.0000","0",""
+"M1","M2 Hole","TopLayer","M2_Hole","2.0000","2.0000","0",""
+"J6","503480-0540","TopLayer","FP-503480-0540-MFG","2.9750","13.0000","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"J5","503480-0540","TopLayer","FP-503480-0540-MFG","2.9750","25.0000","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"J4","503480-0540","TopLayer","FP-503480-0540-MFG","2.9750","7.0000","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"J3","503480-0540","TopLayer","FP-503480-0540-MFG","2.9750","19.0000","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"J2","503480-0540","TopLayer","FP-503480-0540-MFG","2.9750","31.0000","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"J1","Socket 25 P Micro DSUB","TopLayer","581-M25-213L461","18.4950","19.0000","90",""
