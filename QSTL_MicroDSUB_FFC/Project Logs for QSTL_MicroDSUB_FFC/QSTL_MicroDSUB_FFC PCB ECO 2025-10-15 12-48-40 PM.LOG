@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J1-26
+Removed Pin From Net: NetName=GND Pin=J1-27
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=GND Pin=M2-1
+Removed Pin From Net: NetName=GND Pin=M3-1
+Removed Pin From Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=CHASSIS_GND Pin=J1-26
+Added Pin To Net: NetName=CHASSIS_GND Pin=J1-27
+Added Pin To Net: NetName=CHASSIS_GND Pin=M1-1
+Added Pin To Net: NetName=CHASSIS_GND Pin=M2-1
+Added Pin To Net: NetName=CHASSIS_GND Pin=M3-1
+Added Pin To Net: NetName=CHASSIS_GND Pin=M4-1
+Added Net: Name=CHASSIS_GND
+Added Room: Name=QSTL_MicroDSUB_FFC

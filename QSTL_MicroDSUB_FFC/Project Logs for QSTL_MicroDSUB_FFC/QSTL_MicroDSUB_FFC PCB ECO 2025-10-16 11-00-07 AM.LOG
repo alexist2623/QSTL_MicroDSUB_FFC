@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=14 Pin=J4-2
+Removed Pin From Net: NetName=15 Pin=J4-3
+Removed Pin From Net: NetName=16 Pin=J4-4
+Removed Pin From Net: NetName=20 Pin=J7-2
+Removed Pin From Net: NetName=21 Pin=J7-3
+Removed Pin From Net: NetName=22 Pin=J7-4
+Removed Pin From Net: NetName=17 Pin=J8-2
+Removed Pin From Net: NetName=18 Pin=J8-3
+Removed Pin From Net: NetName=19 Pin=J8-4
+Removed Pin From Net: NetName=23 Pin=J9-2
+Removed Pin From Net: NetName=24 Pin=J9-3
+Removed Pin From Net: NetName=25 Pin=J9-4
+Change Component Footprint: Designator=J7 Old Footprint=FP-503480-0540-MFG New Footprint=FP-503480-0540-MFG
+Change Component Footprint: Designator=J8 Old Footprint=FP-503480-0540-MFG New Footprint=FP-503480-0540-MFG
+Change Component Footprint: Designator=J9 Old Footprint=FP-503480-0540-MFG New Footprint=FP-503480-0540-MFG
+Added Pin To Net: NetName=19 Pin=J4-2
+Added Pin To Net: NetName=18 Pin=J4-3
+Added Pin To Net: NetName=17 Pin=J4-4
+Added Pin To Net: NetName=25 Pin=J7-2
+Added Pin To Net: NetName=24 Pin=J7-3
+Added Pin To Net: NetName=23 Pin=J7-4
+Added Pin To Net: NetName=16 Pin=J8-2
+Added Pin To Net: NetName=15 Pin=J8-3
+Added Pin To Net: NetName=14 Pin=J8-4
+Added Pin To Net: NetName=22 Pin=J9-2
+Added Pin To Net: NetName=21 Pin=J9-3
+Added Pin To Net: NetName=20 Pin=J9-4
+Added Room: Name=QSTL_MicroDSUB_FFC

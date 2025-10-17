@@ -2,10 +2,8 @@
 FileName = QSTL_MicroDSUB_FFC.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : QSTL_MicroDSUB_FFC.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : QSTL_MicroDSUB_FFC.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -13,6 +11,10 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
@@ -29,6 +31,19 @@ Generating : Top Paste
 Used DCodes :
     D13
     D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : QSTL_MicroDSUB_FFC.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -49,64 +64,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : QSTL_MicroDSUB_FFC.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : QSTL_MicroDSUB_FFC.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : QSTL_MicroDSUB_FFC.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : QSTL_MicroDSUB_FFC.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : QSTL_MicroDSUB_FFC.GTL
 
@@ -124,6 +81,49 @@ Used DCodes :
     D21
     D22
     D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : QSTL_MicroDSUB_FFC.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : QSTL_MicroDSUB_FFC.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : QSTL_MicroDSUB_FFC.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************

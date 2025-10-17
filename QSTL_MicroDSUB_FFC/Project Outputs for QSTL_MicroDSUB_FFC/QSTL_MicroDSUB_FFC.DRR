@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: QSTL_MicroDSUB_FFC.PcbDoc   2025-10-09  11:37:24 AM
+NCDrill File Report For: QSTL_MicroDSUB_FFC.PcbDoc   2025-10-15  12:43:41 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : QSTL_MicroDSUB_FFC.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             523       PTH        635.67mm (25.03inch)
+T1      0.3mm (12mil)                                             Round             603       PTH        763.10mm (30.04inch)
 T2      0.8mm (31mil)                                             Round             25        PTH        44.61mm (1.76inch)
-T3      2.4mm (94mil)                                             Round             4         PTH        78.00mm (3.07inch)
+T3      2.4mm (94mil)                                             Round             4         PTH        74.00mm (2.91inch)
 T4      2.8mm (110mil)                                            Round             2         PTH        24.51mm (0.96inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              554
+Totals                                                                              634
 
 Total Processing Time (hh:mm:ss) : 00:00:00
