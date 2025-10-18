@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: QSTL_MicroDSUB_FFC.GBR   2025-10-15  12:43:13 PM
+Gerber File Extension Report For: QSTL_MicroDSUB_FFC.GBR   2025-10-17  1:31:56 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -10,6 +10,8 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
+.G1                 L2                                      
+.G2                 L3                                      
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
