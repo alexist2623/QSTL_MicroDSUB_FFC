@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: QSTL_MicroDSUB_FFC.PcbDoc   2025-10-20  2:02:03 AM
+NCDrill File Report For: QSTL_MicroDSUB_FFC.PcbDoc   2025-10-20  11:18:16 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,19 +7,19 @@ ASCII RoundHoles File : QSTL_MicroDSUB_FFC.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             445       PTH        483.58mm (19.04inch)
+T1      0.3mm (12mil)                                             Round             501       PTH        651.84mm (25.66inch)
 T2      0.8mm (31mil)                                             Round             25        PTH        44.61mm (1.76inch)
-T3      2.4mm (94mil)                                             Round             4         PTH        74.00mm (2.91inch)
+T3      2.4mm (94mil)                                             Round             4         PTH        76.00mm (2.99inch)
 T4      2.8mm (110mil)                                            Round             2         PTH        24.51mm (0.96inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              476
+Totals                                                                              532
 
 Two holes at same point : 5
 -----------------------
-815,1327
-232,1209
-335,650
-906,591
 669,315
+906,591
+335,650
+232,1209
+815,1327
 
 Total Processing Time (hh:mm:ss) : 00:00:00
